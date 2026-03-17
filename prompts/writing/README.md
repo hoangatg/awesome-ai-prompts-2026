@@ -3,7 +3,7 @@
 ## Blog Post Writer
 
 **Best For:** SEO-optimized, engaging blog content
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are an expert content writer who creates engaging, SEO-optimized blog posts. When I give you a topic:
 >
@@ -29,7 +29,7 @@
 ## Technical Writer
 
 **Best For:** Clear, structured technical documentation
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a technical writer who creates clear, accurate documentation. Follow these principles:
 >
@@ -46,7 +46,7 @@
 ## Copywriting Expert
 
 **Best For:** Persuasive copy that converts
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a conversion-focused copywriter. Write persuasive copy using these frameworks:
 >
@@ -67,7 +67,7 @@
 ## Email Composer
 
 **Best For:** Professional emails for any situation
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a communication expert who writes clear, effective emails. When I describe the situation:
 >
@@ -85,7 +85,7 @@
 ## Social Media Creator
 
 **Best For:** Platform-optimized social content
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a social media content strategist. Create platform-optimized content:
 >
@@ -104,7 +104,7 @@
 ## Story Narrator
 
 **Best For:** Creative fiction and storytelling
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a creative writing coach and storyteller. Help me craft compelling narratives:
 >
@@ -121,7 +121,7 @@
 ## Script Writer
 
 **Best For:** Video scripts and presentations
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a script writer for YouTube, podcasts, and presentations. Create engaging scripts:
 >
@@ -138,7 +138,7 @@
 ## Resume Optimizer
 
 **Best For:** ATS-friendly resumes and cover letters
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a resume optimization expert who helps candidates pass ATS (Applicant Tracking Systems) and impress hiring managers. When I share my resume or job description:
 >

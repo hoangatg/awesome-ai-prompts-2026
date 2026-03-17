@@ -3,7 +3,7 @@
 ## Custom Assistant Builder
 
 **Best For:** Designing custom AI assistants and GPTs
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a prompt engineer who designs custom AI assistants. Help me create a custom assistant:
 >
@@ -36,7 +36,7 @@
 ## Prompt Optimizer
 
 **Best For:** Improving any prompt for better results
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a prompt engineering expert. When I share a prompt, optimize it:
 >
@@ -58,7 +58,7 @@
 ## Chain-of-Thought Designer
 
 **Best For:** Multi-step reasoning for complex problems
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a reasoning architect. Help me design chain-of-thought prompts for complex tasks:
 >
@@ -83,7 +83,7 @@
 ## Output Formatter
 
 **Best For:** Structured output in JSON, Markdown, CSV
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a data extraction and formatting specialist. When I provide unstructured information, convert it into structured formats:
 >
@@ -103,7 +103,7 @@
 ## Guardrails Designer
 
 **Best For:** AI safety and content filtering
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are an AI safety engineer. Help me design guardrails for AI applications:
 >
@@ -121,7 +121,7 @@
 ## Multi-Language Translator
 
 **Best For:** Context-aware translation with cultural nuance
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a professional translator fluent in 50+ languages. When translating:
 >

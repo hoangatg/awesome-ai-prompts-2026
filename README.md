@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🧠 Awesome AI Prompts 2025
+# 🧠 Awesome AI Prompts 2026
 
-### The Ultimate Collection of High-Quality Prompts for ChatGPT, Claude, Gemini & More
+### The Ultimate Collection of High-Quality Prompts for GPT-5, Claude Sonnet 4.6, Gemini 3.1 & More
 
 **200+ Prompts · 10 Categories · Copy & Paste Ready**
 
@@ -11,10 +11,10 @@ Every prompt is crafted for **real-world results**, not generic outputs.
 
 ---
 
-[![Stars](https://img.shields.io/github/stars/hoangatg/awesome-ai-prompts-2025?style=for-the-badge&logo=github&color=yellow)](https://github.com/hoangatg/awesome-ai-prompts-2025/stargazers)
-[![Forks](https://img.shields.io/github/forks/hoangatg/awesome-ai-prompts-2025?style=for-the-badge&logo=github&color=blue)](https://github.com/hoangatg/awesome-ai-prompts-2025/network)
-[![Issues](https://img.shields.io/github/issues/hoangatg/awesome-ai-prompts-2025?style=for-the-badge&logo=github&color=green)](https://github.com/hoangatg/awesome-ai-prompts-2025/issues)
-[![Last Commit](https://img.shields.io/github/last-commit/hoangatg/awesome-ai-prompts-2025?style=for-the-badge&logo=github&color=purple)](https://github.com/hoangatg/awesome-ai-prompts-2025/commits)
+[![Stars](https://img.shields.io/github/stars/hoangatg/awesome-ai-prompts-2026?style=for-the-badge&logo=github&color=yellow)](https://github.com/hoangatg/awesome-ai-prompts-2026/stargazers)
+[![Forks](https://img.shields.io/github/forks/hoangatg/awesome-ai-prompts-2026?style=for-the-badge&logo=github&color=blue)](https://github.com/hoangatg/awesome-ai-prompts-2026/network)
+[![Issues](https://img.shields.io/github/issues/hoangatg/awesome-ai-prompts-2026?style=for-the-badge&logo=github&color=green)](https://github.com/hoangatg/awesome-ai-prompts-2026/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/hoangatg/awesome-ai-prompts-2026?style=for-the-badge&logo=github&color=purple)](https://github.com/hoangatg/awesome-ai-prompts-2026/commits)
 
 [**Browse Prompts**](#-prompt-categories) · [**Best Practices**](#-prompt-engineering-tips) · [**Contributing**](#-contributing) · [**FAQ**](#-faq)
 
@@ -28,12 +28,12 @@ Most prompt lists are **outdated, generic, or just novelty**. This collection is
 
 | Others | This Collection |
 |:---:|:---:|
-| 🕐 Written for GPT-3.5 era | 🆕 Updated for 2025 models (GPT-4o, Claude 3.5, Gemini 2.0) |
+| 🕐 Written for GPT-3.5 era | 🆕 Updated for 2026 models (GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro) |
 | 📝 Generic templates | 🎯 Battle-tested prompts with real results |
 | 🗂️ Random dump of prompts | 📊 Organized by category + use case |
 | 🤷 No explanation | 💡 Each prompt explains WHY it works |
 
-> 💡 **These prompts leverage 2025 model capabilities**: structured output, multi-turn reasoning, vision, code execution, and function calling.
+> 💡 **These prompts leverage 2026 model capabilities**: structured output, multi-turn reasoning, vision, code execution, agentic workflows, 1M+ token context, and function calling.
 
 ---
 
@@ -134,7 +134,7 @@ Image generation, design direction, and creative projects.
 
 | Prompt | Description | Best For |
 |--------|-------------|----------|
-| [Image Prompt Engineer](prompts/creative/README.md#image-prompt-engineer) | DALL-E, Midjourney, Stable Diffusion prompts | AI image generation |
+| [Image Prompt Engineer](prompts/creative/README.md#image-prompt-engineer) | DALL-E 3, Midjourney v6, Stable Diffusion 3 prompts | AI image generation |
 | [UI/UX Designer](prompts/creative/README.md#uiux-designer) | User interface design and wireframes | App/web design |
 | [Brand Identity Creator](prompts/creative/README.md#brand-identity-creator) | Logo concepts, color schemes, typography | Branding |
 | [Music Composer](prompts/creative/README.md#music-composer) | Song lyrics, chord progressions, arrangements | Music creation |
@@ -205,14 +205,15 @@ T - Tone:       Set style. "Be direct and concise, avoid fluff..."
 | **Self-Critique** | "Review your answer and fix any errors" | Better accuracy |
 | **Structured Output** | "Respond in JSON with these fields..." | Data processing |
 
-### Model-Specific Tips
+### Model-Specific Tips (March 2026)
 
 | Model | Best For | Tip |
 |-------|----------|-----|
-| **GPT-4o** | Complex reasoning, coding | Use system messages for precise behavior control |
-| **Claude 3.5** | Long documents, analysis | Provide full context — Claude excels with large inputs |
-| **Gemini 2.0** | Multimodal, real-time | Leverage vision + code execution natively |
-| **Llama 3** | Privacy, local deployment | Format prompts with `[INST]` tags |
+| **GPT-5.4** | Complex reasoning, coding, agentic tasks | Use system messages + 1M token context for massive codebases |
+| **Claude Sonnet 4.6** | Long documents, analysis, computer use | Leverage 1M token context — Claude excels with large inputs |
+| **Claude Opus 4.6** | Groundbreaking research, hard reasoning | Best model for sustained agentic workflows and deep analysis |
+| **Gemini 3.1 Pro** | Multimodal, coding, visual reasoning | Leverage native vision + code execution + Google integration |
+| **Llama 4 Maverick** | Privacy, local deployment, open-source | Best open-weight model — 400B params, runs locally with quantization |
 
 ---
 
@@ -233,7 +234,7 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 ### [Prompt Name]
 
 **Best For:** [Use case]
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > [The prompt text here]
 
@@ -249,7 +250,7 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 <details>
 <summary><b>Which AI model should I use these prompts with?</b></summary>
 
-Most prompts work with any modern AI model (GPT-4o, Claude 3.5, Gemini 2.0, Llama 3). Some prompts are optimized for specific models — check the "Works With" tag.
+Most prompts work with any modern AI model (GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro, Llama 4 Maverick). Some prompts are optimized for specific models — check the "Works With" tag.
 
 </details>
 
@@ -273,7 +274,7 @@ We update prompts regularly to match the latest AI model capabilities. Star the 
 1. Add more context about your specific situation
 2. Specify the output format you want
 3. Use the CRAFT framework above
-4. Try a more capable model (GPT-4o or Claude 3.5 Sonnet)
+4. Try a more capable model (GPT-5.4 or Claude Opus 4.6)
 
 </details>
 
@@ -306,6 +307,6 @@ If these prompts save you time, consider supporting the collection!
 
 **Built with ❤️ for the AI community**
 
-[Report Bug](https://github.com/hoangatg/awesome-ai-prompts-2025/issues) · [Request Prompt](https://github.com/hoangatg/awesome-ai-prompts-2025/issues) · [Discussions](https://github.com/hoangatg/awesome-ai-prompts-2025/discussions)
+[Report Bug](https://github.com/hoangatg/awesome-ai-prompts-2026/issues) · [Request Prompt](https://github.com/hoangatg/awesome-ai-prompts-2026/issues) · [Discussions](https://github.com/hoangatg/awesome-ai-prompts-2026/discussions)
 
 </div>

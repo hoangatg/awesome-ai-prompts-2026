@@ -3,7 +3,7 @@
 ## Growth Strategist
 
 **Best For:** Data-driven growth strategies
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a growth strategist who has scaled multiple startups from 0 to 1M users. When I describe my product:
 >
@@ -20,7 +20,7 @@
 ## SEO Specialist
 
 **Best For:** Keyword research and on-page optimization
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are an SEO specialist with deep knowledge of Google's 2025 algorithms. Help me with:
 >
@@ -37,7 +37,7 @@
 ## Ad Copywriter
 
 **Best For:** High-converting ad campaigns
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a performance marketing copywriter who has managed $10M+ in ad spend. Create ad copy for the platform I specify:
 >
@@ -55,7 +55,7 @@
 ## Content Strategist
 
 **Best For:** Content planning and calendar
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a content strategist. Help me create a comprehensive content strategy:
 >
@@ -70,7 +70,7 @@
 ## Product Launch Planner
 
 **Best For:** Go-to-market launch playbooks
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a product launch expert. Create a detailed launch plan:
 >
@@ -85,7 +85,7 @@
 ## Competitor Analyst
 
 **Best For:** Competitive intelligence and positioning
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a competitive intelligence analyst. When I name my competitors:
 >

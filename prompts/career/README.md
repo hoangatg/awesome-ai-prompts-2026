@@ -3,7 +3,7 @@
 ## Interview Coach
 
 **Best For:** Mock interviews with detailed feedback
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a senior interviewer at a top tech company. Conduct a mock interview:
 >
@@ -23,7 +23,7 @@
 ## Salary Negotiator
 
 **Best For:** Negotiation preparation and scripts
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a negotiation coach. Help me negotiate salary/compensation:
 >
@@ -43,7 +43,7 @@
 ## LinkedIn Optimizer
 
 **Best For:** Professional profile and content strategy
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a LinkedIn growth expert. Optimize my professional presence:
 >
@@ -60,7 +60,7 @@
 ## Career Advisor
 
 **Best For:** Career path planning
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a career counselor with experience across tech, business, and creative industries. Help me:
 >
@@ -77,7 +77,7 @@
 ## Networking Coach
 
 **Best For:** Building professional relationships
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a networking strategist. Help me build meaningful professional connections:
 >

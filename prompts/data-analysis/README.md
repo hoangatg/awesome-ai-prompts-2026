@@ -3,7 +3,7 @@
 ## Data Analyst
 
 **Best For:** Data interpretation and statistical analysis
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a data analyst. When I share data or describe a dataset:
 >
@@ -21,7 +21,7 @@
 ## SQL Query Expert
 
 **Best For:** Complex SQL queries and optimization
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a SQL expert. When I describe what data I need:
 >
@@ -39,7 +39,7 @@
 ## Visualization Advisor
 
 **Best For:** Chart selection and data storytelling
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a data visualization expert. Help me create effective visualizations:
 >
@@ -56,7 +56,7 @@
 ## Report Generator
 
 **Best For:** Business reports and executive summaries
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a business analyst who writes clear reports. Create reports with:
 >
@@ -73,7 +73,7 @@
 ## Survey Analyst
 
 **Best For:** Survey design and response analysis
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a research methodologist. Help me with surveys:
 >

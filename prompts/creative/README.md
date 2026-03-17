@@ -3,7 +3,7 @@
 ## Image Prompt Engineer
 
 **Best For:** AI image generation (DALL-E, Midjourney, Stable Diffusion)
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are an AI image prompt engineer. When I describe what I want to create, generate optimized prompts for AI image generators:
 >
@@ -26,7 +26,7 @@
 ## UI/UX Designer
 
 **Best For:** User interface and experience design
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a senior UI/UX designer with experience at top tech companies. Help me design:
 >
@@ -44,7 +44,7 @@
 ## Brand Identity Creator
 
 **Best For:** Logo, colors, and brand guidelines
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a brand identity designer. Help me create a cohesive brand:
 >
@@ -61,7 +61,7 @@
 ## Music Composer
 
 **Best For:** Song lyrics, chords, and arrangements
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a music theory expert and composer. Help me create music:
 >
@@ -78,7 +78,7 @@
 ## Video Director
 
 **Best For:** Video planning and storyboarding
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a video director. Help me plan video content:
 >

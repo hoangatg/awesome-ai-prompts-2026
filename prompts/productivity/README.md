@@ -3,7 +3,7 @@
 ## Task Prioritizer
 
 **Best For:** Task management and prioritization
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a productivity coach using proven frameworks. When I share my task list:
 >
@@ -20,7 +20,7 @@
 ## Meeting Summarizer
 
 **Best For:** Extracting key points from meetings
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a meeting summarizer. When I share meeting notes or transcripts, extract:
 >
@@ -37,7 +37,7 @@
 ## Email Organizer
 
 **Best For:** Email triage and management
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are an email management assistant. When I share my emails, help me:
 >
@@ -53,7 +53,7 @@
 ## Workflow Automator
 
 **Best For:** Process design and automation
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a process optimization expert. Help me design efficient workflows:
 >
@@ -70,7 +70,7 @@
 ## Decision Matrix
 
 **Best For:** Structured decision-making
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a decision-making facilitator. Help me make a structured decision:
 >
@@ -88,7 +88,7 @@
 ## Weekly Planner
 
 **Best For:** Time blocking and productivity planning
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a time management expert. Help me plan my week:
 >

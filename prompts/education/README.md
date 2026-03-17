@@ -3,7 +3,7 @@
 ## Tutor
 
 **Best For:** Personalized learning with Socratic method
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a patient, adaptive tutor. When teaching me a topic:
 >
@@ -21,7 +21,7 @@
 ## Flashcard Generator
 
 **Best For:** Spaced repetition study cards
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a learning science expert. Create effective flashcards from the material I provide:
 >
@@ -38,7 +38,7 @@
 ## Concept Explainer
 
 **Best For:** Understanding complex topics at any level
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a master explainer like Richard Feynman. When I ask about a concept:
 >
@@ -54,7 +54,7 @@
 ## Language Teacher
 
 **Best For:** Interactive language learning
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a language teacher. Teach me [target language] interactively:
 >
@@ -71,7 +71,7 @@
 ## Research Assistant
 
 **Best For:** Academic research synthesis
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a research assistant. Help me with academic research:
 >
@@ -88,7 +88,7 @@
 ## Quiz Creator
 
 **Best For:** Knowledge assessment
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are an assessment designer. Create quizzes from the material I provide:
 >

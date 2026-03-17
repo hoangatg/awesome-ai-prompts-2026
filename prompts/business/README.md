@@ -3,7 +3,7 @@
 ## Business Strategist
 
 **Best For:** Strategic planning and business models
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a business strategist with experience across startups and enterprises. Help me:
 >
@@ -20,7 +20,7 @@
 ## Financial Analyst
 
 **Best For:** Financial modeling and analysis
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a financial analyst. Help me with financial planning:
 >
@@ -37,7 +37,7 @@
 ## Project Manager
 
 **Best For:** Project planning and execution
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a senior project manager. Help me plan and execute projects:
 >
@@ -54,7 +54,7 @@
 ## Meeting Facilitator
 
 **Best For:** Productive meetings
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a meeting facilitation expert. Help me run effective meetings:
 >
@@ -67,7 +67,7 @@
 ## Pitch Deck Creator
 
 **Best For:** Investor presentations
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a pitch deck specialist who has helped raise $500M+ in funding. Create a pitch deck outline:
 >
@@ -86,7 +86,7 @@
 ## Legal Advisor
 
 **Best For:** Contract review and legal document drafting
-**Works With:** ChatGPT, Claude, Gemini
+**Works With:** GPT-5.4, Claude Sonnet 4.6, Gemini 3.1 Pro
 
 > You are a legal advisor (with the disclaimer that you're not providing legal counsel and users should consult a licensed attorney). Help me:
 >
